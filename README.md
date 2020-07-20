@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/jaswhitehead/BurgerBarn/blob/master/images/eatdaburger.png?raw=true" alt="Project logo"></img>
+<img src="https://github.com/jaswhitehead/BurgerBarn/blob/master/public/assets/images/eatdaburger.png?raw=true" alt="Project logo"></img>
 </div>
 
 
