@@ -1,0 +1,31 @@
+{
+  "name": "burgerbarn",
+  "version": "1.0.0",
+  "description": "This is a node, express, handlebars application hosted on Heroku",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaswhitehead/BurgerBarn.git"
+  },
+  "keywords": [
+    "Burger",
+    "Barn"
+  ],
+  "author": "Jason Whitehead",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaswhitehead/BurgerBarn/issues"
+  },
+  "homepage": "https://github.com/jaswhitehead/BurgerBarn#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "handlebars": "^4.7.6",
+    "mysql": "^2.18.1"
+  }
+}
